@@ -1,0 +1,2 @@
+CREATE DATABASE tourservice;
+GRANT ALL PRIVILEGES ON DATABASE tourservice TO admin;
